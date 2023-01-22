@@ -6,8 +6,6 @@ VRChatのExpressionsMenuからOBSのシーン切り替えをすることが出�
 
 配信しながらOBSのシーン切り替えをするのって面倒だよね～。なので作りました。
 
-https://youtu.be/OrPx39ktrf4
-
 旧ツール([HandRex:easy recorder system for VRC](https://kurogane-gk.booth.pm/items/4370494))から、配信機能が追加されました。
 
 旧ツール側との需要が全く違うので、別ツールとして公開します。
